@@ -3,6 +3,8 @@ Alunos:
 Antonio Da Rosa
 Ian de Siqueira
 Jean Trojan
+
+
 Tecnologias Utilizadas:
 Python: ^3.11
 FastAPI: 0.104.1
