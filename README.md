@@ -12,15 +12,19 @@
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
-  Tecnologias Utilizadas:
-*Python: ^3.11
-*FastAPI: 0.104.1
-*Uvicorn: 0.24.0
-*SQLModel: 0.0.11
-*Psycopg2: ^2.9.9
-*Psycopg2-binary: 2.9.9
+#Tecnologias Utilizadas:
+<p>Python: ^3.11</p>
+<p>FastAPI: 0.104.1</p>
+<p>Uvicorn: 0.24.0</p>
+<p>SQLModel: 0.0.11</p>
+<p>Psycopg2: ^2.9.9</p>
+<p>Psycopg2-binary: 2.9.9</p>
+
 
 Trabalho desenvolvido pelos academicos de Sistemas de Informação
 
-Academicos: Antonio Da Rosa, Ian de Siqueira e Jean Trojan
+#Academicos
  
+<p>Ian Cadori de Siqueira</p>
+<p>Jean Trojan</p>
+<p>Antonio Da Rosa</p>
