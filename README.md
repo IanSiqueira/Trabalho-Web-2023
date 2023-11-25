@@ -23,7 +23,7 @@
 
 <h6>Trabalho desenvolvido pelos academicos de Sistemas de Informação</h6>
 
-##Academicos
+## Academicos
  
 <p>Ian Cadori de Siqueira</p>
 <p>Jean Trojan</p>
