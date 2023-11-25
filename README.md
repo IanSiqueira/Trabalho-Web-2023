@@ -12,7 +12,7 @@
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
-#Tecnologias Utilizadas:
+## Tecnologias Utilizadas:
 <p>Python: ^3.11</p>
 <p>FastAPI: 0.104.1</p>
 <p>Uvicorn: 0.24.0</p>
@@ -21,9 +21,9 @@
 <p>Psycopg2-binary: 2.9.9</p>
 
 
-Trabalho desenvolvido pelos academicos de Sistemas de Informação
+<h6>Trabalho desenvolvido pelos academicos de Sistemas de Informação</h6>
 
-#Academicos
+##Academicos
  
 <p>Ian Cadori de Siqueira</p>
 <p>Jean Trojan</p>
